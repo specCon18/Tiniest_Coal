@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "yatcm:tiny_coal"
+    },
+    {
+      "item": "yatcm:tiny_coal"
+    },
+    {
+      "item": "yatcm:tiny_coal"
+    },
+    {
+      "item": "yatcm:tiny_coal"
+    },
+    {
+      "item": "yatcm:tiny_coal"
+    },
+    {
+      "item": "yatcm:tiny_coal"
+    },
+    {
+      "item": "yatcm:tiny_coal"
+    },
+    {
+      "item": "yatcm:tiny_coal"
+    }
+  ],
+  "result": {
+    "item": "minecraft:coal"
+  }
+}

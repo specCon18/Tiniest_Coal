@@ -1,0 +1,9 @@
+// 1.20.1	2023-10-17T04:52:58.4257407	Recipes
+dd593abc29b12386dbb82c1dedbaf96ac74bd0f6 data/minecraft/advancements/recipes/misc/charcoal.json
+1b4f73deca67cc5110fcfbfff723f690f2148246 data/minecraft/advancements/recipes/misc/coal.json
+31ae2ebccf20165d74cfdc70e1f58ad2a7bfea91 data/minecraft/recipes/charcoal.json
+f90bcddd73b317914120b8efb379231375bd2299 data/minecraft/recipes/coal.json
+d296d70ec0c6e2222296b2bfb228daf0c40c75e5 data/yatcm/advancements/recipes/misc/tiny_charcoal.json
+8bb3080374772c5d65f929e8012d274ff737a51e data/yatcm/advancements/recipes/misc/tiny_coal.json
+0f827f9d95020e8fea7ac387e9161b0408608676 data/yatcm/recipes/tiny_charcoal.json
+5c12214c5946ef19f98862ddb0f6c543f92c3f34 data/yatcm/recipes/tiny_coal.json
